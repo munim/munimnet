@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+body {
+    font-family: 'Inter';
+}
+
+.site-heading {
+    font-weight: bold;
+}
+
+.contact-image {
+    width: 32px;
+    height: 32px;
+}
+
+.pin-image {
+    width: 20px;
+    height: 20px;
+}
